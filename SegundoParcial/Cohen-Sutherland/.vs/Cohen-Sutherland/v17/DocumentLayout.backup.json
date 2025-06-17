@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\\ESPE\\6to Semestre\\D_Grafica\\Segundo Parcial\\ComputacionGrafica\\SegundoParcial\\Cohen-Sutherland\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8626F2AA-9713-4277-8EBD-8AD491F3BE25}|Cohen-Sutherland\\Cohen-Sutherland.csproj|d:\\onedrive - universidad de las fuerzas armadas espe\\espe\\6to semestre\\d_grafica\\segundo parcial\\computaciongrafica\\segundoparcial\\cohen-sutherland\\cohen-sutherland\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8626F2AA-9713-4277-8EBD-8AD491F3BE25}|Cohen-Sutherland\\Cohen-Sutherland.csproj|solutionrelative:cohen-sutherland\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8626F2AA-9713-4277-8EBD-8AD491F3BE25}|Cohen-Sutherland\\Cohen-Sutherland.csproj|D:\\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\\ESPE\\6to Semestre\\D_Grafica\\Segundo Parcial\\ComputacionGrafica\\SegundoParcial\\Cohen-Sutherland\\cohen-sutherland\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8626F2AA-9713-4277-8EBD-8AD491F3BE25}|Cohen-Sutherland\\Cohen-Sutherland.csproj|solutionrelative:cohen-sutherland\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8626F2AA-9713-4277-8EBD-8AD491F3BE25}|Cohen-Sutherland\\Cohen-Sutherland.csproj|d:\\onedrive - universidad de las fuerzas armadas espe\\espe\\6to semestre\\d_grafica\\segundo parcial\\computaciongrafica\\segundoparcial\\cohen-sutherland\\cohen-sutherland\\cpiccanvasconfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8626F2AA-9713-4277-8EBD-8AD491F3BE25}|Cohen-Sutherland\\Cohen-Sutherland.csproj|solutionrelative:cohen-sutherland\\cpiccanvasconfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8626F2AA-9713-4277-8EBD-8AD491F3BE25}|Cohen-Sutherland\\Cohen-Sutherland.csproj|D:\\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\\ESPE\\6to Semestre\\D_Grafica\\Segundo Parcial\\ComputacionGrafica\\SegundoParcial\\Cohen-Sutherland\\cohen-sutherland\\calgoritmo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8626F2AA-9713-4277-8EBD-8AD491F3BE25}|Cohen-Sutherland\\Cohen-Sutherland.csproj|solutionrelative:cohen-sutherland\\calgoritmo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cPicCanvasConfigure.cs",
+              "DocumentMoniker": "D:\\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\\ESPE\\6to Semestre\\D_Grafica\\Segundo Parcial\\ComputacionGrafica\\SegundoParcial\\Cohen-Sutherland\\Cohen-Sutherland\\cPicCanvasConfigure.cs",
+              "RelativeDocumentMoniker": "Cohen-Sutherland\\cPicCanvasConfigure.cs",
+              "ToolTip": "D:\\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\\ESPE\\6to Semestre\\D_Grafica\\Segundo Parcial\\ComputacionGrafica\\SegundoParcial\\Cohen-Sutherland\\Cohen-Sutherland\\cPicCanvasConfigure.cs",
+              "RelativeToolTip": "Cohen-Sutherland\\cPicCanvasConfigure.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAD4vxkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:50:07.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\\ESPE\\6to Semestre\\D_Grafica\\Segundo Parcial\\ComputacionGrafica\\SegundoParcial\\Cohen-Sutherland\\Cohen-Sutherland\\Form1.cs",
+              "RelativeDocumentMoniker": "Cohen-Sutherland\\Form1.cs",
+              "ToolTip": "D:\\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\\ESPE\\6to Semestre\\D_Grafica\\Segundo Parcial\\ComputacionGrafica\\SegundoParcial\\Cohen-Sutherland\\Cohen-Sutherland\\Form1.cs",
+              "RelativeToolTip": "Cohen-Sutherland\\Form1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwCUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:46:18.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "cAlgoritmo.cs",
+              "DocumentMoniker": "D:\\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\\ESPE\\6to Semestre\\D_Grafica\\Segundo Parcial\\ComputacionGrafica\\SegundoParcial\\Cohen-Sutherland\\Cohen-Sutherland\\cAlgoritmo.cs",
+              "RelativeDocumentMoniker": "Cohen-Sutherland\\cAlgoritmo.cs",
+              "ToolTip": "D:\\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\\ESPE\\6to Semestre\\D_Grafica\\Segundo Parcial\\ComputacionGrafica\\SegundoParcial\\Cohen-Sutherland\\Cohen-Sutherland\\cAlgoritmo.cs",
+              "RelativeToolTip": "Cohen-Sutherland\\cAlgoritmo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:22:05.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\\ESPE\\6to Semestre\\D_Grafica\\Segundo Parcial\\ComputacionGrafica\\SegundoParcial\\Cohen-Sutherland\\Cohen-Sutherland\\Form1.cs",
+              "RelativeDocumentMoniker": "Cohen-Sutherland\\Form1.cs",
+              "ToolTip": "D:\\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\\ESPE\\6to Semestre\\D_Grafica\\Segundo Parcial\\ComputacionGrafica\\SegundoParcial\\Cohen-Sutherland\\Cohen-Sutherland\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Cohen-Sutherland\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:21:28.146Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

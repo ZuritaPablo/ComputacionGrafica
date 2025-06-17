@@ -1,0 +1,10 @@
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\Segundo Parcial\ComputacionGrafica\SegundoParcial\Cohen-Sutherland\Cohen-Sutherland\bin\Debug\Cohen-Sutherland.exe.config
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\Segundo Parcial\ComputacionGrafica\SegundoParcial\Cohen-Sutherland\Cohen-Sutherland\bin\Debug\Cohen-Sutherland.exe
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\Segundo Parcial\ComputacionGrafica\SegundoParcial\Cohen-Sutherland\Cohen-Sutherland\bin\Debug\Cohen-Sutherland.pdb
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\Segundo Parcial\ComputacionGrafica\SegundoParcial\Cohen-Sutherland\Cohen-Sutherland\obj\Debug\Cohen-Sutherland.csproj.AssemblyReference.cache
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\Segundo Parcial\ComputacionGrafica\SegundoParcial\Cohen-Sutherland\Cohen-Sutherland\obj\Debug\Cohen_Sutherland.btnDraw.resources
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\Segundo Parcial\ComputacionGrafica\SegundoParcial\Cohen-Sutherland\Cohen-Sutherland\obj\Debug\Cohen_Sutherland.Properties.Resources.resources
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\Segundo Parcial\ComputacionGrafica\SegundoParcial\Cohen-Sutherland\Cohen-Sutherland\obj\Debug\Cohen-Sutherland.csproj.GenerateResource.cache
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\Segundo Parcial\ComputacionGrafica\SegundoParcial\Cohen-Sutherland\Cohen-Sutherland\obj\Debug\Cohen-Sutherland.csproj.CoreCompileInputs.cache
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\Segundo Parcial\ComputacionGrafica\SegundoParcial\Cohen-Sutherland\Cohen-Sutherland\obj\Debug\Cohen-Sutherland.exe
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\Segundo Parcial\ComputacionGrafica\SegundoParcial\Cohen-Sutherland\Cohen-Sutherland\obj\Debug\Cohen-Sutherland.pdb
