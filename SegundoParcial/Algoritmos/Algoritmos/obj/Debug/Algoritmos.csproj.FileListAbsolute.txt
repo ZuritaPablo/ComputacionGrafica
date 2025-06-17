@@ -1,0 +1,10 @@
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\Segundo Parcial\Algoritmos\Algoritmos\bin\Debug\Algoritmos.exe.config
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\Segundo Parcial\Algoritmos\Algoritmos\bin\Debug\Algoritmos.exe
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\Segundo Parcial\Algoritmos\Algoritmos\bin\Debug\Algoritmos.pdb
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\Segundo Parcial\Algoritmos\Algoritmos\obj\Debug\Algoritmos.csproj.AssemblyReference.cache
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\Segundo Parcial\Algoritmos\Algoritmos\obj\Debug\Algoritmos.Form1.resources
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\Segundo Parcial\Algoritmos\Algoritmos\obj\Debug\Algoritmos.Properties.Resources.resources
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\Segundo Parcial\Algoritmos\Algoritmos\obj\Debug\Algoritmos.csproj.GenerateResource.cache
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\Segundo Parcial\Algoritmos\Algoritmos\obj\Debug\Algoritmos.csproj.CoreCompileInputs.cache
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\Segundo Parcial\Algoritmos\Algoritmos\obj\Debug\Algoritmos.exe
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\Segundo Parcial\Algoritmos\Algoritmos\obj\Debug\Algoritmos.pdb
