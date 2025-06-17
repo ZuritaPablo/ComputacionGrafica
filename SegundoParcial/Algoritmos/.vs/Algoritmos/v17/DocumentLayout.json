@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\\ESPE\\6to Semestre\\D_Grafica\\Segundo Parcial\\temp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2D4243-A6CE-470E-8175-FEBD8243138C}|Algoritmos\\Algoritmos.csproj|d:\\onedrive - universidad de las fuerzas armadas espe\\espe\\6to semestre\\d_grafica\\segundo parcial\\temp\\algoritmos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C2D4243-A6CE-470E-8175-FEBD8243138C}|Algoritmos\\Algoritmos.csproj|solutionrelative:algoritmos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2D4243-A6CE-470E-8175-FEBD8243138C}|Algoritmos\\Algoritmos.csproj|D:\\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\\ESPE\\6to Semestre\\D_Grafica\\Segundo Parcial\\temp\\algoritmos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C2D4243-A6CE-470E-8175-FEBD8243138C}|Algoritmos\\Algoritmos.csproj|solutionrelative:algoritmos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2D4243-A6CE-470E-8175-FEBD8243138C}|Algoritmos\\Algoritmos.csproj|D:\\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\\ESPE\\6to Semestre\\D_Grafica\\Segundo Parcial\\temp\\algoritmos\\calgoritmofloodfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C2D4243-A6CE-470E-8175-FEBD8243138C}|Algoritmos\\Algoritmos.csproj|solutionrelative:algoritmos\\calgoritmofloodfill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2D4243-A6CE-470E-8175-FEBD8243138C}|Algoritmos\\Algoritmos.csproj|D:\\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\\ESPE\\6to Semestre\\D_Grafica\\Segundo Parcial\\temp\\algoritmos\\calgoritmobresenhamcircunferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C2D4243-A6CE-470E-8175-FEBD8243138C}|Algoritmos\\Algoritmos.csproj|solutionrelative:algoritmos\\calgoritmobresenhamcircunferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2D4243-A6CE-470E-8175-FEBD8243138C}|Algoritmos\\Algoritmos.csproj|D:\\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\\ESPE\\6to Semestre\\D_Grafica\\Segundo Parcial\\temp\\algoritmos\\calgoritmobresenhamlinea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C2D4243-A6CE-470E-8175-FEBD8243138C}|Algoritmos\\Algoritmos.csproj|solutionrelative:algoritmos\\calgoritmobresenhamlinea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2D4243-A6CE-470E-8175-FEBD8243138C}|Algoritmos\\Algoritmos.csproj|D:\\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\\ESPE\\6to Semestre\\D_Grafica\\Segundo Parcial\\temp\\algoritmos\\calgoritmodda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C2D4243-A6CE-470E-8175-FEBD8243138C}|Algoritmos\\Algoritmos.csproj|solutionrelative:algoritmos\\calgoritmodda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2D4243-A6CE-470E-8175-FEBD8243138C}|Algoritmos\\Algoritmos.csproj|D:\\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\\ESPE\\6to Semestre\\D_Grafica\\Segundo Parcial\\temp\\algoritmos\\cpiccanvasconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C2D4243-A6CE-470E-8175-FEBD8243138C}|Algoritmos\\Algoritmos.csproj|solutionrelative:algoritmos\\cpiccanvasconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\\ESPE\\6to Semestre\\D_Grafica\\Segundo Parcial\\temp\\Algoritmos\\Form1.cs",
+              "RelativeDocumentMoniker": "Algoritmos\\Form1.cs",
+              "ToolTip": "D:\\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\\ESPE\\6to Semestre\\D_Grafica\\Segundo Parcial\\temp\\Algoritmos\\Form1.cs",
+              "RelativeToolTip": "Algoritmos\\Form1.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T03:36:16.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cAlgoritmoFloodFill.cs",
+              "DocumentMoniker": "D:\\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\\ESPE\\6to Semestre\\D_Grafica\\Segundo Parcial\\temp\\Algoritmos\\cAlgoritmoFloodFill.cs",
+              "RelativeDocumentMoniker": "Algoritmos\\cAlgoritmoFloodFill.cs",
+              "ToolTip": "D:\\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\\ESPE\\6to Semestre\\D_Grafica\\Segundo Parcial\\temp\\Algoritmos\\cAlgoritmoFloodFill.cs",
+              "RelativeToolTip": "Algoritmos\\cAlgoritmoFloodFill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T03:30:51.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\\ESPE\\6to Semestre\\D_Grafica\\Segundo Parcial\\temp\\Algoritmos\\Form1.cs",
+              "RelativeDocumentMoniker": "Algoritmos\\Form1.cs",
+              "ToolTip": "D:\\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\\ESPE\\6to Semestre\\D_Grafica\\Segundo Parcial\\ComputacionGrafica\\SegundoParcial\\Algoritmos\\Algoritmos\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\ComputacionGrafica\\SegundoParcial\\Algoritmos\\Algoritmos\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T18:42:20.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "cAlgoritmoBresenhamCircunferencia.cs",
+              "DocumentMoniker": "D:\\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\\ESPE\\6to Semestre\\D_Grafica\\Segundo Parcial\\temp\\Algoritmos\\cAlgoritmoBresenhamCircunferencia.cs",
+              "RelativeDocumentMoniker": "Algoritmos\\cAlgoritmoBresenhamCircunferencia.cs",
+              "ToolTip": "D:\\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\\ESPE\\6to Semestre\\D_Grafica\\Segundo Parcial\\temp\\Algoritmos\\cAlgoritmoBresenhamCircunferencia.cs",
+              "RelativeToolTip": "Algoritmos\\cAlgoritmoBresenhamCircunferencia.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T03:26:49.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "cAlgoritmoBresenhamLinea.cs",
+              "DocumentMoniker": "D:\\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\\ESPE\\6to Semestre\\D_Grafica\\Segundo Parcial\\temp\\Algoritmos\\cAlgoritmoBresenhamLinea.cs",
+              "RelativeDocumentMoniker": "Algoritmos\\cAlgoritmoBresenhamLinea.cs",
+              "ToolTip": "D:\\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\\ESPE\\6to Semestre\\D_Grafica\\Segundo Parcial\\temp\\Algoritmos\\cAlgoritmoBresenhamLinea.cs",
+              "RelativeToolTip": "Algoritmos\\cAlgoritmoBresenhamLinea.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T01:34:15.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "cAlgoritmoDDA.cs",
+              "DocumentMoniker": "D:\\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\\ESPE\\6to Semestre\\D_Grafica\\Segundo Parcial\\temp\\Algoritmos\\cAlgoritmoDDA.cs",
+              "RelativeDocumentMoniker": "Algoritmos\\cAlgoritmoDDA.cs",
+              "ToolTip": "D:\\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\\ESPE\\6to Semestre\\D_Grafica\\Segundo Parcial\\temp\\Algoritmos\\cAlgoritmoDDA.cs",
+              "RelativeToolTip": "Algoritmos\\cAlgoritmoDDA.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T17:20:42.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "cPicCanvasConfig.cs",
+              "DocumentMoniker": "D:\\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\\ESPE\\6to Semestre\\D_Grafica\\Segundo Parcial\\temp\\Algoritmos\\cPicCanvasConfig.cs",
+              "RelativeDocumentMoniker": "Algoritmos\\cPicCanvasConfig.cs",
+              "ToolTip": "D:\\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\\ESPE\\6to Semestre\\D_Grafica\\Segundo Parcial\\temp\\Algoritmos\\cPicCanvasConfig.cs",
+              "RelativeToolTip": "Algoritmos\\cPicCanvasConfig.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAtwBwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T17:31:02.536Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
